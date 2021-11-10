@@ -1,25 +1,118 @@
 {
-    "tamales":[{
-        
+
+    "tamales": [{
+            "id": 1,
+            "nombre": "Tamal",
+            "sabor": "David",
+            "precio": "Herrera",
+            "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalmole_q8ujfr.png"
+        },
+        {
             "id": 1,
             "nombre": 1234,
             "sabor": "David",
             "precio": "Herrera",
             "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
-        
+        },
+        {
+            "id": 1,
+            "nombre": 1234,
+            "sabor": "David",
+            "precio": "Herrera",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+        },
+        {
+            "id": 1,
+            "nombre": 1234,
+            "sabor": "David",
+            "precio": "Herrera",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+        },
+        {
+            "id": 1,
+            "nombre": 1234,
+            "sabor": "David",
+            "precio": "Herrera",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+        }
+    ],
+    "Guajolotes": [{
+            "id": 1,
+            "nombre": 1234,
+            "sabor": "David",
+            "precio": "Herrera",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
 
-    }],
-    "Guajolotes":[{
+        },
+        {
+            "id": 1,
+            "nombre": 1234,
+            "sabor": "David",
+            "precio": "Herrera",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
 
 
-    }],
 
-    "bebidas":[{
+        },
+        {
+            "id": 1,
+            "nombre": 1234,
+            "sabor": "David",
+            "precio": "Herrera",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
 
 
 
+        },
+        {
+            "id": 1,
+            "nombre": 1234,
+            "sabor": "David",
+            "precio": "Herrera",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
 
-    }]
+
+
+        },
+        {
+            "id": 1,
+            "nombre": 1234,
+            "sabor": "David",
+            "precio": "Herrera",
+            "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+        }
+    ],
+
+    "bebidas": [
+        {
+        "id": 1,
+        "nombre": 1234,
+        "sabor": "David",
+        "precio": "Herrera",
+        "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+    },
+    {
+        "id": 1,
+        "nombre": 1234,
+        "sabor": "David",
+        "precio": "Herrera",
+        "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+    },
+    {
+        "id": 1,
+        "nombre": 1234,
+        "sabor": "David",
+        "precio": "Herrera",
+        "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+    },
+    {
+        "id": 1,
+        "nombre": 1234,
+        "sabor": "David",
+        "precio": "Herrera",
+        "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
+    }
+]
 
 
 
