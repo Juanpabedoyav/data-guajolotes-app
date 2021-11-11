@@ -2,7 +2,7 @@
 
     "tamales": [
         {
-            "id": 1,
+            "id": 0,
             "sabor": "Mole",
             "precio": "14mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalmole_q8ujfr.png   "
@@ -14,19 +14,19 @@
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalverde_cvghf8.png"
         },
         {
-            "id": 1,
+            "id": 2,
             "sabor": "Pasas",
             "precio": "14mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalpasas_upvzoq.png"
         },
         {
-            "id": 1,
+            "id": 3,
             "sabor": "Piña",
             "precio": "14mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalpi%C3%B1a_lauh2d.png"
         },
         {
-            "id": 1,
+            "id": 4,
             "sabor": "Guayaba",
             "precio": "14mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalguayaba_juloze.png"
@@ -34,7 +34,7 @@
     ],
     "Guajolotes": [
         {
-            "id": 1,
+            "id": 0,
             "sabor": "Mole",
             "precio": "25mxn",
             "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
@@ -47,19 +47,19 @@
             "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
         },
         {
-            "id": 1,
+            "id": 2,
             "sabor": "Pasas",
             "precio": "25mxn",
             "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
         },
         {
-            "id": 1,
+            "id": 3,
             "sabor": "Piña",
             "precio": "25mxn",
             "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
         },
         {
-            "id": 1,
+            "id": 4,
             "sabor": "Guayaba",
             "precio": "25mxn",
             "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
@@ -68,7 +68,7 @@
 
     "bebidas": [
         {
-        "id": 1,
+        "id": 0,
         "sabor": "Champurrado",
         "precio": "12mxn",
         "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511801/champurrado_nd42qe.png"
@@ -80,13 +80,13 @@
         "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511800/arroz_vbdnsd.png"
     },
     {
-        "id": 1,
+        "id": 2,
         "sabor": "Chocolate Caliente",
         "precio": "12mxn",
         "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511801/chocolate_s89bxc.png"
     },
     {
-        "id": 1,
+        "id": 3,
         "sabor": "Café",
         "precio": "12mxn",
         "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511801/cafe_qzwhfq.png"
