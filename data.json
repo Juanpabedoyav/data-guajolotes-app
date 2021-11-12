@@ -5,31 +5,31 @@
         {
             "id": "",
             "sabor": "Tamal Mole",
-            "precio": "$ 14 mxn",
+            "precio": "$14 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalmole_q8ujfr.png   "
         },
         {
             "id": "",
             "sabor": "Tamal Verde",
-            "precio": "$ 14 mxn",
+            "precio": "$14 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalverde_cvghf8.png"
         },
         {
             "id": "",
             "sabor": "Tamal Pasas",
-            "precio": "$ 14 mxn",
+            "precio": "$14 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalpasas_upvzoq.png"
         },
         {
             "id": "",
             "sabor": "Tamal Piña",
-            "precio": "$ 14 mxn",
+            "precio": "$14 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalpi%C3%B1a_lauh2d.png"
         },
         {
             "id": "",
             "sabor": "Tamal Guayaba",
-            "precio": "$ 14mxn",
+            "precio": "$14 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636510791/Tamalguayaba_juloze.png"
         }
     ],
@@ -37,32 +37,32 @@
         {
             "id": "",
             "sabor": "Guajalota Mole",
-            "precio": "$ 25 mxn",
+            "precio": "$25 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511611/guajamole_zbn0kh.png"
 
         },
         {
             "id": "",
             "sabor": "Guajalota Verde",
-            "precio": "$ 25 mxn",
+            "precio": "$25 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511611/guajaverde_xmolmw.png"
         },
         {
             "id": "",
             "sabor": "Guajalota Pasas",
-            "precio": "$ 25 mxn",
+            "precio": "$25 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511611/guajapasas_fxywr4.png"
         },
         {
             "id": "",
             "sabor": "Guajalota Piña",
-            "precio": "$ 25 mxn",
+            "precio": "$25 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511611/guajapi%C3%B1a_d21tj0.png"
         },
         {
             "id": "",
             "sabor": "Guajalota Guayaba",
-            "precio": "$ 25 mxn",
+            "precio": "$25 mxn",
             "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511611/guajaguayaba_yt32ey.png"
         }
     ],
@@ -71,25 +71,25 @@
         {
         "id": "",
         "sabor": "Champurrado",
-        "precio": "$ 12 mxn",
+        "precio": "$12 mxn",
         "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511801/champurrado_nd42qe.png"
     },
     {
         "id": "",
         "sabor": "Atole de Arroz con Lecha",
-        "precio": "$ 12 mxn",
+        "precio": "$12 mxn",
         "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511800/arroz_vbdnsd.png"
     },
     {
         "id": "",
         "sabor": "Chocolate Caliente",
-        "precio": "$ 12 mxn",
+        "precio": "$12 mxn",
         "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511801/chocolate_s89bxc.png"
     },
     {
         "id": "",
         "sabor": "Café",
-        "precio": "$ 12 mxn",
+        "precio": "$12 mxn",
         "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511801/cafe_qzwhfq.png"
     }
 ]
