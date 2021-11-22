@@ -92,6 +92,15 @@
         "precio": 12,
         "imagen": "https://res.cloudinary.com/dflxhnzgs/image/upload/v1636511801/cafe_qzwhfq.png"
     }
+],
+  "carrito": [
+    {
+        "id": 0,
+        "sabor": "",
+        "cantidades": "" ,
+        "adicion":"",
+        "total": "",
+        "imagen": ""
+    }
 ]
-
 }
